@@ -28,3 +28,11 @@ func (d *Delivery) ConsumerTag() string {
 func (d *Delivery) MessageId() string {
 	return d.Delivery.MessageId
 }
+
+func (d *Delivery) ReplyTo() string {
+	return d.Delivery.ReplyTo
+}
+
+func (d *Delivery) CorrelationId() string {
+	return d.Delivery.CorrelationId
+}
