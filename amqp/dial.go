@@ -3,8 +3,8 @@ package amqp
 import (
 	"time"
 
-	"github.com/NeowayLabs/wabbit"
-	"github.com/NeowayLabs/wabbit/utils"
+	"github.com/trane/wabbit"
+	"github.com/trane/wabbit/utils"
 	"github.com/streadway/amqp"
 )
 

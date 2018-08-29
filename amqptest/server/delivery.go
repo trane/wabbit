@@ -1,6 +1,6 @@
 package server
 
-import "github.com/NeowayLabs/wabbit"
+import "github.com/trane/wabbit"
 
 type (
 	// Delivery is an interface to delivered messages

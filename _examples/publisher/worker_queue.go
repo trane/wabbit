@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/NeowayLabs/wabbit"
-	"github.com/NeowayLabs/wabbit/amqp"
+	"github.com/trane/wabbit"
+	"github.com/trane/wabbit/amqp"
 	"log"
 )
 

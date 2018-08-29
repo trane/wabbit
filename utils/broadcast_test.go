@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NeowayLabs/wabbit"
+	"github.com/trane/wabbit"
 )
 
 func TestBroadcast(t *testing.T) {
